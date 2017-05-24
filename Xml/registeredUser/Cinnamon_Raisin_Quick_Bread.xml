@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Cinnamon_Raisin_Quick_Bread.xsl" type="text/xsl"?>
+<reml version="0.5" language="eng" country="us">
+		
+	<!-- Adrian Lundhe lab04 -->
+
+	<webpageauthordata>
+		<authorname>Adrian Lundhe</authorname>
+		<authordata>29 September</authordata>
+		<authorphonenumber>0794 4343244 234234</authorphonenumber>
+		<authoremail>lundhe@kth.se</authoremail>
+		<authorlocation>KTH Kista</authorlocation>
+	</webpageauthordata>
+	<menu name="Cinnamon Raisin Quick Bread">
+		<userData></userData>
+		<meal name="Cinnamon Raisin Quick Bread">
+			<userData></userData>
+			<mealItem name="Cinnamon Raisin Quick Bread" servings="5" prepTime="20">
+				<image>../../Pictures/Cinnamon_Raisin_Quick_Bread.jpg</image>
+				<userData>Yield: 20 Cinnamon Raisin Quick Bread</userData>
+				<createDate>2013-09-29</createDate>
+				<updateDate>2013-09-29</updateDate>
+				<location locality="" />
+				<difficulty>Normal</difficulty>
+				<procedure>
+					<procedureText>In a blender, combine the first six ingredients. Cover and process until blended.
+						Heat a lightly greased 8-in. nonstick skillet; pour 1/4 cup batter into center of each.
+						Lift and tilt pan to evenly coat bottom. Cook until top appears dry; turn and cook 15-20 seconds longer. 
+						Repeat with remaining batter, adding oil to skillet as needed. Stack pancakes with waxed paper or paper towels in between.
+						Reheat in the microwave if desired. Fold pancakes into quarters; serve with berries, raspberry jam and whipped topping.
+					</procedureText>
+				</procedure>
+				<author name="" />
+				<nutrition calories="309" />
+				<ingredient name="Milk" quantity-integer="2">
+					<IUnit>
+						<IUnitArbitrary>cup</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Eggs" quantity-integer="4">
+					<IUnit>
+						<IUnitArbitrary>piece</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Canola oil" quantity-integer="1">
+					<IUnit>
+						<IUnitArbitrary>tablespoon</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="All-purpose flour" quantity-integer="1">
+					<IUnit>
+						<IUnitArbitrary>cup</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Sugar" quantity-integer="3">
+					<IUnit>
+						<IUnitArbitrary>tablespoon</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Salt" quantity-numerator="1" quantity-denominator="4">
+					<IUnit>
+						<IUnitArbitrary>teaspoon</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Lingonberries or raspberries">
+					<IUnit>
+						<IUnitArbitrary></IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Seedless raspberry jam or fruit spread, warmed">
+					<IUnit>
+						<IUnitArbitrary></IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Whipped topping">
+					<IUnit>
+						<IUnitArbitrary></IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<category>
+					<CategoryArbitrary>Dessert</CategoryArbitrary>
+				</category>
+			</mealItem>
+		</meal>
+	</menu>
+    <commentsection>
+		<comment> 
+			<date>Reviewed on Jan. 10, 2011</date>
+			<user>by sleepapaul</user>
+			<text>My family and friends have enjoyed this recipe many times. These are a wonderful change frome traditional pancakes and or waffles. Thanks so much for the wonderful tasting recipe.</text>
+		</comment>
+		<comment> 
+			<date>Reviewed on Apr. 02, 2009</date> 
+			<user>by swanbeckjanie</user> 
+			<text>My family loves these topped with chopped fresh strawberries on top.</text>
+		</comment>
+		<comment> 
+			<date>Reviewed on Apr. 01, 2009</date> 
+			<user>by dmwenthold</user> 
+			<text>I've used a similar recipe that we make a big batch, then freeze. they are great that way too. Another way to serve is with peanut butter, or with butter and brown sugar.</text>
+		</comment>
+		<comment>
+			<date>Reviewed on Apr. 01, 2009</date> 
+			<user>by Bniccolls</user> 
+			<text>Mix/whip cream cheese and butter or margarine together and spread on pancakes. Then add a dollup of cherry, apple, or blackberry pie filling and roll up like a blitz or do the fold over thing. Sprinkle rollup with powder sugar. Place side by side in rows on serving platter for a beautiful addition to a tasty brunch.</text>
+		</comment>
+		<comment>
+			<date>Reviewed on Apr. 01, 2009</date> 
+			<user>by dizz3898</user> 
+			<text>answer to your question yes they can be frozen before stuffing put a layer of parchment or waxed paper between each then when ready to use let thaw at room temp they are wonderful this way too</text>
+		</comment>
+	</commentsection>
+</reml>

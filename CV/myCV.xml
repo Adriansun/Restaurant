@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cv_sv_SE.xsl"?>
+<europass:learnerinfo xsi:schemaLocation="http://europass.cedefop.europa.eu/Europass/V2.0 http://europass.cedefop.europa.eu/xml/EuropassSchema_V2.0.xsd" xmlns:europass="http://europass.cedefop.europa.eu/Europass/V2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en_GB">
+
+	<!-- Adrian Lundhe lab04 its my CV -->
+
+       <docinfo>
+               <issuedate>2013-02-19T14:10:25+01:00</issuedate>
+                <xsdversion>V2.0</xsdversion>
+            <comment>Automatically generated Europass CV</comment></docinfo>
+   <prefs>
+             <field name="step1.firstName" before="step1.lastName"></field>
+            <field name="step1.addressInfo" keep="true"></field>
+             <field name="step1.telephone" keep="true"></field>
+                <field name="step1.mobile" keep="true"></field>
+              <field name="step1.fax" keep="false"></field>
+              <field name="step1.email" keep="false"></field>
+            <field name="step1.nationality" keep="false"></field>
+            <field name="step1.birthDate" keep="true" format="/numeric/long"></field>
+          <field name="step1.gender" keep="true"></field>
+                <field name="step1.photo" keep="false"></field>
+              <field name="step1.application.label" keep="false"></field>
+                <field name="step3List" keep="false" before="step4List"></field>
+               <field name="step4List" keep="false"></field>
+               <field name="step5.motherLanguages" keep="false"></field>
+           <field name="step5.foreignLanguageList" keep="false"></field>
+           <field name="step6.socialSkills" keep="false"></field>
+          <field name="step6.organisationalSkills" keep="false"></field>
+         <field name="step6.technicalSkills" keep="false"></field>
+             <field name="step6.computerSkills" keep="false"></field>
+          <field name="step6.artisticSkills" keep="false"></field>
+               <field name="step6.otherSkills" keep="false"></field>
+               <field name="step6.drivingLicences" keep="false"></field>
+           <field name="step7.additionalInfo" keep="false"></field>
+                <field name="step7.annexes" keep="false"></field>
+            <field name="grid" keep="false"></field></prefs>
+ <identification>
+          <firstname>Adrian</firstname>
+             <lastname>Lundhe</lastname>
+                <contactinfo>
+                    <address>
+                            <addressLine>Sun city 1</addressLine>
+                         <municipality>SOLNA</municipality>
+                                <postalCode>169 99</postalCode>
+                           <country>
+                                   <label>SWEDEN</label></country></address>
+                   <telephone>0777 651551 54</telephone>
+                   <fax></fax>
+                 <mobile>0777 555748848</mobile>
+                       <email>lundhe@kth.se</email></contactinfo>
+           <demographics>
+                      <birthdate>1908-01-32</birthdate>
+                      <gender>M</gender>
+                     <nationality>
+                         <label></label></nationality></demographics></identification>
+     <application>
+         <label></label></application>
+     <languagelist>
+                <language xsi:type="europass:mother">
+                      <label></label></language></languagelist>
+      <skilllist>
+            <skill type="social"></skill>
+          <skill type="organisational"></skill>
+                <skill type="technical"></skill>
+           <skill type="computer"></skill>
+               <skill type="artistic"></skill>
+           <skill type="other"></skill>
+          <structured-skill xsi:type="europass:driving"></structured-skill></skilllist>
+        <misclist>
+               <misc type="additional"></misc>
+           <misc type="annexes"></misc></misclist></europass:learnerinfo>
+

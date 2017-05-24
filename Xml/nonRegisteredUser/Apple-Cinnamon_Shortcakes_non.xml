@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Apple-Cinnamon_Shortcakes_non.xsl" type="text/xsl"?>
+<reml version="0.5" language="eng" country="us">
+		
+	<!-- Adrian Lundhe lab04 -->
+
+	<webpageauthordata>
+		<authorName>Adrian Lundhe</authorName>
+		<authordata>29 SEPTEMBER</authordata>
+		<authorPhoneNumber>07434 434234 543543</authorPhoneNumber>
+		<authorEmail>lundhe@kth.se</authorEmail>
+		<authorlocation>KTH Kista</authorlocation>
+	</webpageauthordata>
+	<menu name="Apple-Cinnamon Shortcakes">
+		<userData></userData>
+		<meal name="Apple-Cinnamon Shortcakes">
+			<userData></userData>
+			<mealItem name="Apple-Cinnamon Shortcakes" servings="5" prepTime="20">
+				<image>../../Pictures/Apple-Cinnamon_Shortcakes.jpg</image>
+				<userData>Yield: 2032 Shortcakes</userData>
+				<createDate>2013-09-29</createDate>
+				<updateDate>2013-09-29</updateDate>
+				<location locality="" />
+				<difficulty>Normal</difficulty>
+				<procedure>
+					<procedureText>In a blender, combine the first six ingredients. Cover and process until blended.
+						Heat a lightly greased 8-in. nonstick skillet; pour 1/4 cup batter into center of each.
+						Lift and tilt pan to evenly coat bottom. Cook until top appears dry; turn and cook 15-20 seconds longer. 
+						Repeat with remaining batter, adding oil to skillet as needed. Stack pancakes with waxed paper or paper towels in between.
+						Reheat in the microwave if desired. Fold pancakes into quarters; serve with berries, raspberry jam and whipped topping.
+					</procedureText>
+				</procedure>
+				<author name="" />
+				<nutrition calories="309" />
+				<ingredient name="Milk" quantity-integer="2">
+					<IUnit>
+						<IUnitArbitrary>cup</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Eggs" quantity-integer="4">
+					<IUnit>
+						<IUnitArbitrary>piece</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Canola oil" quantity-integer="1">
+					<IUnit>
+						<IUnitArbitrary>tablespoon</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="All-purpose flour" quantity-integer="1">
+					<IUnit>
+						<IUnitArbitrary>cup</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Sugar" quantity-integer="3">
+					<IUnit>
+						<IUnitArbitrary>tablespoon</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Salt" quantity-numerator="1" quantity-denominator="4">
+					<IUnit>
+						<IUnitArbitrary>teaspoon</IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Lingonberries or raspberries">
+					<IUnit>
+						<IUnitArbitrary></IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Seedless raspberry jam or fruit spread, warmed">
+					<IUnit>
+						<IUnitArbitrary></IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<ingredient name="Whipped topping">
+					<IUnit>
+						<IUnitArbitrary></IUnitArbitrary>
+					</IUnit>
+				</ingredient>
+				<category>
+					<CategoryArbitrary>Dessert</CategoryArbitrary>
+				</category>
+			</mealItem>
+		</meal>
+	</menu>
+	<commentsection>
+		<comments1> Reviewed on Jan. 10, 2011 by sleepapaul My family and friends have enjoyed this recipe many times. These are a wonderful change frome traditional pancakes and or waffles. Thanks so much for the wonderful tasting recipe.</comments1>
+		<comments2> Reviewed on Jun. 10, 2009 by walborg I have not tried this receipe for Swedish Pancakes. Swedish pancakes are NEVER made with oil always melted butter. Since I am Swedish and my parents were born in Swedish and my oldest daughter lives in Sweden I will continue to make my mother's recipe for Swedish pancakes. I wouldn't even want to try this recipe. DonnMarilyn@tds.net</comments2>
+		<comments3> Reviewed on Apr. 02, 2009 by swanbeckjanie My family loves these topped with chopped fresh strawberries on top.</comments3>
+		<comments4> Reviewed on Apr. 02, 2009 by swanbeckjanie</comments4>
+		<comments5> Reviewed on Apr. 01, 2009 by dmwenthold I've used a similar recipe that we make a big batch, then freeze. they are great that way too. Another way to serve is with peanut butter, or with butter and brown sugar.</comments5>
+		<comments6> Reviewed on Apr. 01, 2009 by dizz3898 answer to your question yes they can be frozen before stuffing put a layer of parchment or waxed paper between each then when ready to use let thaw at room temp they are wonderful this way too</comments6>
+		<comments7> Reviewed on Apr. 01, 2009 by jmmurd This is a question, not a comment. Can these be frozen? How are they after they are frozen?</comments7>
+		<comments8> Reviewed on Apr. 01, 2009 by Bniccolls Mix/whip cream cheese and butter or margarine together and spread on pancakes. Then add a dollup of cherry, apple, or blackberry pie filling and roll up like a blitz or do the fold over thing. Sprinkle rollup with powder sugar. Place side by side in rows on serving platter for a beautiful addition to a tasty brunch.</comments8>
+		<comments9> Reviewed on Apr. 01, 2009 by dizz3898 answer to your question yes they can be frozen before stuffing put a layer of parchment or waxed paper between each then when ready to use let thaw at room temp they are wonderful this way too</comments9>
+	</commentsection>
+</reml>

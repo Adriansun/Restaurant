@@ -1,0 +1,81 @@
+/* 
+ * 		Laboration 04 Internet Applikationer Adrian Daniel Lundhe, Årskurs 2, DataTeknik
+ *		This is the style body for the calendar. 
+ * */
+
+body
+{	
+	background-image:url("../Pictures/bgCalendar.jpg");
+	padding: 0px;
+}
+
+div
+{
+	text-align: center;
+}
+
+h1
+{
+	color: #221f1f;
+	text-align:center;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-weight: 900;
+}
+
+h3
+{
+ 	color: #221f1f;
+ 	text-align:center; 	
+ 	font-family: Helvetica;
+ 	font-size: 17px;
+}
+
+p
+{
+	font-family: serif;
+	font-size:13px;
+	color: gray;
+}
+
+div.right 
+{
+	text-align: right;
+}
+
+table 
+{
+	width: 80%;
+	border-collapse: collapse;
+	margin-left: 10%;
+}
+
+th 
+{
+	width: 120px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	padding: 1px;
+}
+
+td 
+{
+	width: 120px;
+	height: 120px;
+	border: 1px solid gray;
+	vertical-align: text-top;
+}
+
+#wrapper
+{
+margin: 0 0 0 200px;
+width: 1050px;
+height: 100%;
+}
+
+img 
+{
+	width: 100px;
+	vertical-align: text-top;
+	padding-top: 2px;
+}

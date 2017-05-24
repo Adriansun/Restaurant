@@ -1,0 +1,70 @@
+/* Start of the style for the drop down menu */
+
+#sddm
+{	
+	margin: 0;
+	padding: 0;
+	z-index: 300;
+}
+
+#sddm li
+{	
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	font-family: Helvetica;
+	font: bold 14px;
+}
+
+#sddm li a
+{	
+	display: block;
+	margin: 0 1px 0 0;
+	padding: 4px 37px;
+	width: 60px;
+	background: #E01B5D;
+	color: #49C987;
+	text-align: center;
+	text-decoration: none;
+	font-family: Helvetica;
+	font: bold 14px;
+}
+
+#sddm li a:hover
+{	
+	background: #000000;
+}
+
+#sddm div
+{	
+	position: absolute;
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+	background: #EAEBD8;
+	border: 1px solid #5970B2;
+	z-index: 300;
+}
+
+#sddm div a
+{	
+	position: relative;
+	display: block;
+	margin: 0;
+	padding: 5px 10px;
+	width: auto;
+	white-space: nowrap;
+	text-align: left;
+	text-decoration: none;
+	background: #EAEBD8;
+	color: #2875DE;
+	font-family: Helvetica;
+	font: bold 14px;
+}
+
+#sddm div a:hover
+{	
+	background: #49A3FF;
+	color: #FFF;
+}
